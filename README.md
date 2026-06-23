@@ -129,12 +129,23 @@ fun_fact: 228+ contributions in the last year and counting 🔥
 ---
 
 <!-- Trophy Section -->
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajai-Thomas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+
+| Metric | Count |
+|--------|-------|
+| ⭐ Total Stars Earned | 4 |
+| 💻 Total Commits (2026) | 109+ |
+| 🔀 Total PRs | 4 |
+| 📦 Total Repos | 13 |
+| 👥 Followers | 3 |
+
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajai-Thomas&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true" width="60%"/>
+</div>
 ---
 
 <!-- Footer Wave -->
