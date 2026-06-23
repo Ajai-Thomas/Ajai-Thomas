@@ -144,7 +144,7 @@ fun_fact: 228+ contributions in the last year and counting 🔥
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajai-Thomas&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajai-Thomas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" width="60%"/>
 </div>
 ---
 
