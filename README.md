@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ajai+%F0%9F%91%8B;Full-Stack+Developer+from+Kottayam;Building+cool+stuff+with+JavaScript;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Ajai+%F0%9F%91%8B;Full-Stack+Developer+from+Kottayam;Building+cool+stuff+with+Python+%26+JavaScript;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -38,8 +38,8 @@ name: Ajai Thomas
 handle: Ajai-Thomas
 pronouns: he/him
 location: Kottayam, India 🇮🇳
-currently_building: Project-J (Automation + Swagger)
-languages: [JavaScript, TypeScript, Java, HTML, CSS]
+currently_building: Project Zeno (voice assistant) + Phoenix (load-testing agent)
+languages: [Python, JavaScript, TypeScript, Java, HTML, CSS]
 open_to: Collaborations & Open Source
 fun_fact: 228+ contributions in the last year and counting 🔥
 ```
@@ -53,6 +53,7 @@ fun_fact: 228+ contributions in the last year and counting 🔥
 
 **Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -79,14 +80,14 @@ fun_fact: 228+ contributions in the last year and counting 🔥
   <a href="https://github.com/Ajai-Thomas/Acadia-Planner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajai-Thomas&repo=Acadia-Planner&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
-  <a href="https://github.com/Ajai-Thomas/gmail">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajai-Thomas&repo=gmail&theme=tokyonight&hide_border=true&border_radius=10" />
+  <a href="https://github.com/Ajai-Thomas/Project-Zeno">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajai-Thomas&repo=Project-Zeno&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
   <a href="https://github.com/Ajai-Thomas/Film-Fest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajai-Thomas&repo=Film-Fest&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
-  <a href="https://github.com/Ajai-Thomas/Rider-Buddy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajai-Thomas&repo=Rider-Buddy&theme=tokyonight&hide_border=true&border_radius=10" />
+  <a href="https://github.com/Ajai-Thomas/S-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajai-Thomas&repo=S-Portfolio&theme=tokyonight&hide_border=true&border_radius=10" />
   </a>
 </div>
 
@@ -138,8 +139,8 @@ fun_fact: 228+ contributions in the last year and counting 🔥
 | ⭐ Total Stars Earned | 4 |
 | 💻 Total Commits (2026) | 109+ |
 | 🔀 Total PRs | 4 |
-| 📦 Total Repos | 13 |
-| 👥 Followers | 3 |
+| 📦 Total Repos | 19 |
+| 👥 Followers | 7 |
 
 </div>
 
